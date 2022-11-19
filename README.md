@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently doing my Computer Science Engineering 
 - 💞️ I’m looking to collaborate on the tech stuff
-- 📫 Reach me on my gmail - nazishdmm@gmail.com
+- 📫 Reach me on my email - nazishdmm@gmail.com
 
 <!---
 nazishmohammed/nazishmohammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

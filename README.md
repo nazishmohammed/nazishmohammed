@@ -4,11 +4,8 @@
   <img src="https://github.com/nazishmohammed/nazishmohammed/assets/107362957/39cbcb5b-b657-4347-88c8-9ce7d5ce1ba4">
 </p>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazishmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="nazishmohammed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazishmohammed" alt="nazishmohammed" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
@@ -31,21 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazishmohammed&show_icons=true&locale=en" alt="nazishmohammed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazishmohammed&" alt="nazishmohammed" /></p>
-
-
-
-
-<!--- 👋 Hi, I’m @nazishmohammed
-- 👀 I’m interested in Programming
-- 🌱 I’m currently doing my Computer Science Engineering 
-- 💞️ I’m looking to collaborate on the tech stuff
-- 📫 Reach me on my email - nazishdmm@gmail.com
---->
-
-<!---
-nazishmohammed/nazishmohammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 [![@nazish_mohammed's Holopin board](https://holopin.me/nazish_mohammed)](https://holopin.io/@nazish_mohammed)

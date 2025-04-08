@@ -7,10 +7,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazishmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="nazishmohammed" /> </p>
 
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **giving my bugs names because they’ve been around long enough to be part of the team.** 
 
-- 👯 I’m looking to collaborate on **Any Interesting Tech Related Stuff, But Mostly Focused On AI!**
-
+- 👯 I’m looking to collaborate on code that gets raw-dogged straight into prod with no protection, no testing, and absolutely no regrets.
+ 
 - 📫 Reach me at: **nazishdmm@gmail.com**
 
 - ⚡ Fun fact: **I can make people laugh until their stomach hurts :)**

@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on code that gets raw-dogged straight into prod with no protection, no testing, and absolutely no regrets.
  
-- 📫 Reach me at: **nazishdmm@gmail.com**
-
 - ⚡ Fun fact: **I can make people laugh until their stomach hurts :)**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nazish Mohammed</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/nazishmohammed/nazishmohammed/assets/107362957/39cbcb5b-b657-4347-88c8-9ce7d5ce1ba4">
-</p>
+</p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazishmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="nazishmohammed" /> </p>
 
